@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Deporte para la gente
 
 Página principal de una comunidad de fútbol de barrio. Muestra el mensaje de la comunidad, las seis secciones (partidos, jugadores, equipos, torneos, árbitros y canchas) y tarjetas de ejemplo de jugadores y partidos.
@@ -77,3 +78,6 @@ Esta versión incluye solo la **página principal**. Los enlaces de las seccione
 ## Documentación relacionada
 
 El documento de requisitos, especificaciones y criterios de aceptación describe cada elemento de la página (RF-01 a RF-12).
+=======
+# deportes_para_la_gente_figma
+>>>>>>> d924f89f43a56bdff09fe8e7f3a2ef5787f83279
